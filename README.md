@@ -6,6 +6,8 @@ I'm a Computer Science student 📚 and Web Developer 💻 from 🇮🇹 <br/><b
 ## I'm currently working on... 🔮
 
 [![Turing Machine Card](https://github-readme-stats.vercel.app/api/pin/?username=SpanishInquisition49&repo=turingmachine&theme=radical)](https://github.com/SpanishInquisition49/TuringMachine)
+<br/>
+[![Algorithms CookBook Card](https://github-readme-stats.vercel.app/api/pin/?username=SpanishInquisition49&repo=algorithms_cookbook&theme=radical)](https://github.com/SpanishInquisition49/algorithms_cookbook)
 
 ## Stats 📊
 
