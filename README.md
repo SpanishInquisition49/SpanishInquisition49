@@ -11,6 +11,6 @@ I'm a Computer Science student 📚 and Web Developer 💻 from 🇮🇹 <br/><b
 
 ## Stats 📊
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpanishInquisition49&theme=radical&layout=compact)](https://github.com/SpanishInquisition49)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpanishInquisition49&theme=radical&layout=compact&langs_count=10)](https://github.com/SpanishInquisition49)
 <br/>
 [![SpanishInquisition's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SpanishInquisition&theme=radical)](https://github.com/SpanishInquisition49)
