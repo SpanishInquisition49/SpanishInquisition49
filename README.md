@@ -1,5 +1,7 @@
 # Spanish Inquisition
 
+[![wakatime](https://wakatime.com/badge/user/a066da80-f2e0-402c-bda8-566c96e36484.svg)](https://wakatime.com/@a066da80-f2e0-402c-bda8-566c96e36484)
+
 Hello there 👀 <br/>
 I'm a Computer Science student 📚 and Web Developer 💻 from 🇮🇹 <br/><br/>
 
