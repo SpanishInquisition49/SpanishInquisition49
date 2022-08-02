@@ -3,7 +3,11 @@
 [![wakatime](https://wakatime.com/badge/user/a066da80-f2e0-402c-bda8-566c96e36484.svg)](https://wakatime.com/@a066da80-f2e0-402c-bda8-566c96e36484?style=social)
 
 Hello there 👀 <br/>
-I'm a Computer Science student 📚 and Web Developer 💻 from 🇮🇹 <br/><br/>
+I'm a Computer Science student 📚 and Web Developer 💻 from 🇮🇹 <br/>
+
+* 🌱 I'm currently learning Automation and Web Crawling.
+* :heart: Programming Languages theory.
+* 🤡 When there is a task that can be manually done in 5 minute, but you find a way to automate in 5 days.
 
 ## I'm currently working on... 🔮
 
