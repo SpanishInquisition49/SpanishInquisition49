@@ -5,7 +5,7 @@
 Hello there 👀 <br/>
 I'm a Computer Science student 📚 and Web Developer 💻 from 🇮🇹 <br/>
 
-* 🌱 I'm currently learning Automation and Web Crawling.
+* 🌱 I'm currently learning Automation and Web Scraping.
 * :heart: Programming Languages theory.
 * 🤡 When there is a task that can be manually done in 5 minute, but you find a way to automate in 5 days.
 
