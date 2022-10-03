@@ -46,3 +46,7 @@ I'm a Computer Science student 📚 and Web Developer 💻 from 🇮🇹 <br/>
 ## Trophies 🏆
 
 ![image](https://github-profile-trophy.vercel.app/?username=spanishinquisition49&theme=dracula&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A)
+
+## HoloPin :sparkles:
+
+[![@SpanishInquistion's Holopin board](https://holopin.io/api/user/board?user=spanishinquisition)](https://holopin.io/@spanishinquisition)
