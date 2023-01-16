@@ -12,15 +12,15 @@ I'm a Computer Science student 📚 and Web Developer 💻 from 🇮🇹 <br/>
 
 ## I'm currently working on... 🔮
 
-[![Turing Machine Card](https://github-readme-stats.vercel.app/api/pin/?username=SpanishInquisition49&repo=turingmachine&bg_color=0B0D0F&text_color=F8F8F2&title_color=FF80BF&icon_color=9580FF&border_color=8AFF80)](https://github.com/SpanishInquisition49/TuringMachine)
+[![Turing Machine Card](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=SpanishInquisition49&repo=turingmachine&bg_color=0B0D0F&text_color=F8F8F2&title_color=FF80BF&icon_color=9580FF&border_color=8AFF80)](https://github.com/SpanishInquisition49/TuringMachine)
 
-[![Laboratorio II Card](https://github-readme-stats.vercel.app/api/pin/?username=unipi-materiale-didattico&repo=laboratorio-II&bg_color=0B0D0F&text_color=F8F8F2&title_color=FF80BF&icon_color=9580FF&border_color=8AFF80)](https://github.com/unipi-materiale-didattico/Laboratorio-II)
+[![Laboratorio II Card](https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=unipi-materiale-didattico&repo=laboratorio-II&bg_color=0B0D0F&text_color=F8F8F2&title_color=FF80BF&icon_color=9580FF&border_color=8AFF80)](https://github.com/unipi-materiale-didattico/Laboratorio-II)
 
 ## Stats 📊
 
-| ![image](https://github-readme-streak-stats.herokuapp.com/?user=spanishinquisition49&background=0B0D0F&border=8AFF80&stroke=8AFF80&sideLabels=F8F8F2&dates=F8F8F2&sideNums=F8F8F2&currStreakNum=F8F8F2&ring=FF9580&fire=FF9580&currStreakLabel=FF9580&hide_border=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpanishInquisition49&layout=compact&bg_color=0B0D0F&text_color=F8F8F2&title_color=FF80BF&icon_color=9580FF&border_color=8AFF80&card_width=445&hide_border=true)](https://github.com/SpanishInquisition49) |
+| ![image](https://streak-stats.demolab.com/?user=spanishinquisition49&background=0B0D0F&border=8AFF80&stroke=8AFF80&sideLabels=F8F8F2&dates=F8F8F2&sideNums=F8F8F2&currStreakNum=F8F8F2&ring=FF9580&fire=FF9580&currStreakLabel=FF9580&hide_border=true) | [![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=SpanishInquisition49&layout=compact&bg_color=0B0D0F&text_color=F8F8F2&title_color=FF80BF&icon_color=9580FF&border_color=8AFF80&card_width=445&hide_border=true)](https://github.com/SpanishInquisition49) |
 |---|---|
-| [![SpanishInquisition49's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpanishInquisition49&count_private=true&bg_color=0B0D0F&text_color=F8F8F2&title_color=FF80BF&icon_color=9580FF&border_color=8AFF80&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![SpanishInquisition's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SpanishInquisition&layout=compact&bg_color=0B0D0F&text_color=F8F8F2&title_color=FF80BF&icon_color=9580FF&border_color=8AFF80&langs_count=5&hide_border=true)](https://github.com/SpanishInquisition49) |
+| [![SpanishInquisition49's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=SpanishInquisition49&count_private=true&bg_color=0B0D0F&text_color=F8F8F2&title_color=FF80BF&icon_color=9580FF&border_color=8AFF80&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![SpanishInquisition's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SpanishInquisition&layout=compact&bg_color=0B0D0F&text_color=F8F8F2&title_color=FF80BF&icon_color=9580FF&border_color=8AFF80&langs_count=5&hide_border=true)](https://github.com/SpanishInquisition49) |
 
 
 ## Everyday Tools 🧰
