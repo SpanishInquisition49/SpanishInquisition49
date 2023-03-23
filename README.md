@@ -8,7 +8,9 @@ I'm a Computer Science student 📚 and Web Developer 💻 from 🇮🇹 <br/>
 
 * 🌱 I'm currently learning Automation and Web Scraping.
 * :heart: Programming Languages theory.
-* 🤡 When there is a task that can be manually done in 5 minute, but you find a way to automate in 5 days.
+*  $Y=\lambda f. (\lambda x. f(x\ x))(\lambda x.f(x\ x))$
+
+and also I use Arch btw
 
 ## I'm currently working on... 🔮
 
@@ -23,25 +25,14 @@ I'm a Computer Science student 📚 and Web Developer 💻 from 🇮🇹 <br/>
 
 ## Everyday Tools 🧰
 
-![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![image](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
-![image](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![image](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![image](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![image](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
-![image](	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white)
-![image](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![image](	https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
-![image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![image](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![image](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,neovim,vscode,idea,git,bash,regex,c,js,jest,nodejs,ts,py,lua,ocaml,docker&perline=8"/>
+  </a>
+</p>
 
 ## Trophies 🏆
 
-![image](https://github-profile-trophy.vercel.app/?username=spanishinquisition49&theme=dracula&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=spanishinquisition49&theme=dracula&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A">
+</p>
