@@ -14,7 +14,7 @@ and also I use Arch btw
 
 ## I'm currently working on... 🔮
 
-[![Turing Machine Card](https://github-readme-stats.vercel.app/api/pin/?username=SpanishInquisition49&repo=turingmachine&bg_color=0B0D0F&text_color=F8F8F2&title_color=FF80BF&icon_color=9580FF&border_color=8AFF80)](https://github.com/SpanishInquisition49/TuringMachine)
+[![Lotus Card](https://github-readme-stats.vercel.app/api/pin/?username=SpanishInquisition49&repo=lotus&bg_color=0B0D0F&text_color=F8F8F2&title_color=FF80BF&icon_color=9580FF&border_color=8AFF80)](https://github.com/SpanishInquisition49/lotus)
 
 ## Stats 📊
 
