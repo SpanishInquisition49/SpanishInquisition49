@@ -56,3 +56,8 @@ I'm a Computer Science student 📚 and Web Developer 💻 from 🇮🇹 <br/>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=spanishinquisition49&theme=tokyonight&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A">
 </p>
+
+
+<div align="center">
+  <img src="https://count.getloli.com/get/@:SpanishInquisition49?theme=rule34" alt="The Count" />
+</div>
