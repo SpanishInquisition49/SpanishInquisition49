@@ -31,16 +31,16 @@ I'm a Computer Science student 📚 and Web Developer 💻 from 🇮🇹 <br/>
 
 ```json
 {
-  "age": 24,
+  "age": 25,
   "learning": "Compilers and Interpreters",
   "love": "Programming Languages theory",
   "meme": "I use Arch btw",
-  "theme": "Monokai Ristretto"
+  "theme": "Catppuccin"
 }
 ```
 
 <p align="center">
- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=Science%20is%20what%20we%20understand%20well%20enough%20to%20explain%20to%20a%20computer%2C%20Art%20is%20all%20the%20rest&author=Donald%20Knuth"/>
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin&quote=Science%20is%20what%20we%20understand%20well%20enough%20to%20explain%20to%20a%20computer%2C%20Art%20is%20all%20the%20rest&author=Donald%20Knuth"/>
 </p>
 
 ## Everyday Tools 🧰
@@ -54,7 +54,7 @@ I'm a Computer Science student 📚 and Web Developer 💻 from 🇮🇹 <br/>
 ## Trophies 🏆
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=spanishinquisition49&theme=monokai&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A">
+  <img src="https://github-profile-trophy.vercel.app/?username=spanishinquisition49&theme=onedark&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A">
 </p>
 
 
